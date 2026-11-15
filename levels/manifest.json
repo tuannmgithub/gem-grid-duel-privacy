@@ -1,7 +1,7 @@
 {
-  "version": 5,
+  "version": 6,
   "min_client": 1,
-  "url": "levels-v5.json",
-  "sha256": "32ef8e5d66c78e90802c86f5450ece9c22cd4e20a201378308ea8406988b0f68",
+  "url": "levels-v6.json",
+  "sha256": "4a3b8d54fc84039dd8214170c93a35a2f76433f808d612110e384bd15ebfbf70",
   "chapters": 10
 }
